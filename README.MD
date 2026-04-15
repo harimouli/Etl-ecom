@@ -1,6 +1,6 @@
 # 🛒 ETL E-commerce Data Pipeline
 
-## 📌 Overview
+##  Overview
 
 This project is a simple ETL (Extract, Transform, Load) pipeline where I worked with e-commerce data to understand how raw data is cleaned and prepared for analysis.
 
@@ -8,14 +8,14 @@ The main goal was to learn how data flows from raw input to a usable format.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
 
 ---
 
-## 🔄 ETL Pipeline Flow
+##  ETL Pipeline Flow
 
 ### 1. Extract
 
@@ -36,7 +36,7 @@ The main goal was to learn how data flows from raw input to a usable format.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
     ETL-ECOMDATA/
     │
@@ -47,7 +47,7 @@ The main goal was to learn how data flows from raw input to a usable format.
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 - Basics of ETL process
 - How to clean and preprocess data
@@ -56,16 +56,20 @@ The main goal was to learn how data flows from raw input to a usable format.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install dependencies:
 
 ```bash
     pip install pandas
+
 Run the script:
+```bash
     python etl.py
-Use Cases
-Preparing data for analysis
-Learning data pipeline basics
-Understanding real-world data cleaning
+
+## Use Cases
+
+    Preparing data for analysis
+    Learning data pipeline basics
+    Understanding real-world data cleaning
 ```
